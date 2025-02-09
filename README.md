@@ -11,7 +11,7 @@ Bienvenue sur ce repository ! Avant d'explorer le code, merci de prendre connais
 - Vous pouvez **lire et analyser** le code pour mieux comprendre son fonctionnement.
 - Vous pouvez **vous inspirer** des idées et concepts développés ici pour vos propres projets, tant que vous ne copiez pas le code directement.
 
-# 📜 Licence
+# Licence
 Ce projet est sous une licence **propriétaire**. Toute utilisation non autorisée du code peut entraîner des actions légales.
 
 ------------------------------- English version --------------------------------------
