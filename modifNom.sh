@@ -1,3 +1,7 @@
+#Ce programme vise à changer le nom des fichiers selon une caractéristique précise.
+#Ici, lorsque la taille des fichiers est supérieure à 1ko, son nom change selon les paramètres expliqués plus bas
+#Bonne découverte !
+
 #!/bin/bash
 
 echo "Saisissez un nom :" #initialise le nouveau nom qu'on veut donner aux fichiers
