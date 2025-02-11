@@ -1,3 +1,8 @@
+#Ce programme est une calculatrice un peu particulière...
+#Elle fait des calculs classiques qui changent en fonction de celui choisi mais ce n'est pas tout !
+#Elle permet aussi de réaliser des jeux en sélectionnant cette section qui sont assez amusant :)
+#Bonne découverte !
+
 import math, random, time, os, platform
 
 
